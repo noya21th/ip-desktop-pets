@@ -1,53 +1,36 @@
-# IP 桌面宠物 · 墩墩 / 蕾蕾 / 布布 / 啵叽 / 噜噜
+# 蕾蕾和布布 · 桌面宠物
 
-五只住在 Mac 桌面上的小宠物，每只是一个独立的小软件，想养哪只装哪只。
+<img src="docs/icon_pair.png" width="140">
 
-| 墩墩 | 蕾蕾 | 布布 | 啵叽 | 噜噜 |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="docs/icon_墩墩.png" width="110"> | <img src="docs/icon_蕾蕾.png" width="110"> | <img src="docs/icon_布布.png" width="110"> | <img src="docs/icon_啵叽.png" width="110"> | <img src="docs/icon_噜噜.png" width="110"> |
-| 龙喵墩墩 | 蕾蕾和布布 | 蕾蕾和布布 | 啵叽和噜噜 | 啵叽和噜噜 |
+小天使蕾蕾（急性子、勇敢）和小恶魔布布（胆小、柔弱），一起住在你的电脑桌面上。一个安装包，装好后点一个图标，两只一起出来。
 
 ## 下载安装
 
-到 [Releases](https://github.com/noya21th/ip-desktop-pets/releases/latest) 下载对应角色的安装包：
+到 [Releases](https://github.com/noya21th/ip-desktop-pets/releases/latest) 下载：
 
-| 角色 | Mac | Windows |
+| 电脑 | 下载这个 | 怎么装 |
 |---|---|---|
-| 墩墩 | `Dundun-…-Mac.dmg` | 制作中 |
-| 蕾蕾 | `Leilei-…-Mac.dmg` | `Leilei-…-Windows-Setup.exe` |
-| 布布 | `Bubu-…-Mac.dmg` | `Bubu-…-Windows-Setup.exe` |
-| 啵叽 | `Boji-…-Mac.dmg` | 制作中 |
-| 噜噜 | `Lulu-…-Mac.dmg` | 制作中 |
-
-**Mac**：双击 `.dmg`，把图标拖进「应用程序」。第一次打开请**右键 → 打开**（个人做的小软件，没有向苹果交认证费，苹果会多问一句）。要求 macOS 13 或更新。
-
-**Windows**：双击 `Setup.exe` 按提示安装。如果弹出「Windows 已保护你的电脑」，点「更多信息」→「仍要运行」（同样是因为没有买微软的签名证书）。要求 Windows 10 或 11（64 位）。
+| Mac | `LeileiBubu-…-Mac.dmg` | 双击打开，把「蕾蕾和布布」拖进「应用程序」。第一次打开请**右键 → 打开**（个人做的小软件，没有向苹果交认证费，苹果会多问一句）。要求 macOS 13 或更新。 |
+| Windows | `LeileiBubu-…-Windows-Setup.exe` | 双击按提示安装，装好桌面上会有「蕾蕾和布布」图标。如果弹出「Windows 已保护你的电脑」，点「更多信息」→「仍要运行」。要求 Windows 10 或 11（64 位）。 |
 
 ## 能做什么
 
 - **跟着你**：眼睛一直看着鼠标；鼠标离远了会侧过身来看你。
-- **陪你打字**：你一打字，它就站到两颗键帽上，正脸对着你，左右脚轮流踩（像小猫踩奶）；你停下来，它也会若有所思一会儿，墩墩有时还会托着下巴想。
-- **摸摸和互动**：鼠标在它身上蹭一蹭会眯眼冒爱心；连点它会生气。拖动、点一下、双击走一走。
+- **陪你打字**：你一打字，它们就站到两颗键帽上，正脸对着你，左右脚轮流踩；你停下来，它们也会若有所思一会儿。
+- **会说话**：每个动作都有一句台词——蕾蕾干脆利落、嘴硬不认怂；布布说话小小声、结结巴巴。
+- **两只一起玩**：一起打招呼、跳舞、听歌、抱抱；自动保持间距，不叠在一起；可以叫醒正在睡觉的那只，或者把它叫到身边。
+- **摸摸和互动**：鼠标在身上蹭一蹭会眯眼冒爱心；连点会生气。拖动、点一下、双击飞一飞。
 - **几十个小动作**：吃饼干、玩球、抱玩偶、盖小被子、吹泡泡、抓蝴蝶、跳舞、打滚、戴耳机听歌……右键菜单里随便点。
-- **会睡觉、会提醒**：电脑久不操作它自己睡着；整点和久坐会提醒你起来动一动。
-- **搭档互动**：蕾蕾↔布布、啵叽↔噜噜同时开着时，可以一起打招呼、跳舞、听歌、抱抱；两只会自动保持间距，不叠在一起。
-- **叫醒/叫出来**：右键一只，可以叫醒正在睡觉的搭档、把它叫到身边；搭档没开着的话，直接把它叫出来。
-- **墩墩会说话**：每个动作都有一句奶声奶气的台词。
+- **会睡觉、会提醒**：电脑久不操作它们自己睡着；整点和久坐会提醒你起来动一动。
 
 <img src="docs/typing.png" width="100%">
-
-<img src="docs/ponder.png" width="100%">
 
 ## 关注我们
 
 右键点宠物 →「去账号看看」也能直接打开。
 
-| 账号 | 抖音 | 小红书 |
-|---|---|---|
-| 龙喵墩墩 | [抖音主页](https://www.douyin.com/user/MS4wLjABAAAAzkNfGj5EERjIAyi9ln4VBFE2HnWu63wPqPcMctMyLlw) | [小红书主页](https://www.xiaohongshu.com/user/profile/6513a79f0000000024017443) |
-| 蕾蕾和布布 | [抖音主页](https://www.douyin.com/user/MS4wLjABAAAAtslcXhOA3ZMaffZzDmRIup_NJaGXAIVYUJ44WnbM4wCZ6AobWuz1BtxeYAkmEC70) | [小红书主页](https://www.xiaohongshu.com/user/profile/6357ad53000000001901c1ac) |
-| 啵叽和噜噜 | [抖音主页](https://www.douyin.com/user/MS4wLjABAAAAyzvKQwEDmCHJ-1cYjdeXHKkB2XzhFYAWq7IVtzIZyw01ErR3OFzrxDiSxtl7mM-Q) | [小红书主页](https://www.xiaohongshu.com/user/profile/64be473f000000001403eeb7) |
+- 蕾蕾和布布 · [抖音主页](https://www.douyin.com/user/MS4wLjABAAAAtslcXhOA3ZMaffZzDmRIup_NJaGXAIVYUJ44WnbM4wCZ6AobWuz1BtxeYAkmEC70) · [小红书主页](https://www.xiaohongshu.com/user/profile/6357ad53000000001901c1ac)
 
 ## 版权
 
-墩墩、蕾蕾、布布、啵叽、噜噜的角色形象、美术和声音版权归各自 IP 所有，仅供个人免费使用，未经许可不得商用或二次分发。
+蕾蕾、布布的角色形象、美术和声音版权归「蕾蕾和布布」IP 所有，仅供个人免费使用，未经许可不得商用或二次分发。
